@@ -9,7 +9,6 @@
 - 🚀 Currently working on ETL projects in Python  
 - 🌍 Goal: build strong expertise in data 
 
-<img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmNid3c0NTV4Z2dmZGNpM3I2dXc0MWJoZmhpeXcxcDZ2Y3RzOWxvMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tHIRLHtNwxpjIFqPdV/giphy.gif"  />
 
 ###
 <h3 align="left">Languages and Tools:</h3>
