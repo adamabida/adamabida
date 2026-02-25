@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Adam Abida and I'm an aspiring Data Engineer from Tunisia</h2>
+<h2 align="left">Hi ! My name is Adam Abida and I'm an aspiring Data Engineer from Tunisia</h2>
 
 
 ###
@@ -7,7 +7,7 @@
 - 🎓 Student at the Faculty of Sciences of Sfax  
 - 💻 Passionate about data engineering, pipelines, and scalable systems  
 - 🚀 Currently working on ETL projects in Python  
-- 🌍 Goal: build strong expertise in data 
+
 
 
 ###
